@@ -1,0 +1,3 @@
+Select columns_name
+	from Table_Name
+where condition;
